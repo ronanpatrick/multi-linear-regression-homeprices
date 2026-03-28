@@ -31,6 +31,6 @@ You can view and run this notebook instantly in your browser using Google Colab:
 *(Note: To run the interactive prediction cell, you must run the notebook in Colab. Ensure you upload the CSV dataset to the session storage or update the pandas read path to the raw GitHub URL).*
 
 ### Option 2: Run Locally
-1. Clone this repository: `git clone https://github.com/ronanpatrick/home-prices-mlr.git`
+1. Clone this repository: `git clone https://github.com/ronanpatrick/multi-linear-regression-homeprices.git`
 2. Install the required libraries: `pip install pandas scikit-learn matplotlib`
 3. Open the `.ipynb` file in Jupyter Notebook or VS Code and run all cells.
