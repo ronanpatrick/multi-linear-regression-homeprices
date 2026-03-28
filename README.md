@@ -1,7 +1,7 @@
 # Home Prices: Multiple Linear Regression
 
-## Project Overview
-This project demonstrates the end-to-end process of building a Multiple Linear Regression (MLR) model using Python and Scikit-Learn. It takes a raw dataset of housing features (area, bedrooms, and age) and predicts the final unit price. A significant portion of this exercise focuses on essential data cleaning and preprocessing before model training.
+## Overview
+This activity demonstrates the end-to-end process of building a Multiple Linear Regression (MLR) model using Python and Scikit-Learn. It takes a raw dataset of housing features (area, bedrooms, and age) and predicts the final unit price. A significant portion of this exercise focuses on essential data cleaning and preprocessing before model training.
 
 ## Dataset
 * **Source File:** `homeprices-MLR(homeprices).csv`
